@@ -25,4 +25,24 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/0203-remove-linked-list-elements) |
+## Math
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/1025-divisor-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
