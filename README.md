@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0832-flipping-an-image](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/0832-flipping-an-image) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1748-sum-of-unique-elements](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/1748-sum-of-unique-elements) |
@@ -32,6 +33,7 @@
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1025-divisor-game](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
