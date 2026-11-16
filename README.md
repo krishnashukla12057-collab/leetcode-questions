@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/0832-flipping-an-image) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,4 +75,8 @@
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/1748-sum-of-unique-elements) |
 | [3467-transform-array-by-parity](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/3467-transform-array-by-parity) |
+## String
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
