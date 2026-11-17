@@ -78,5 +78,6 @@
 ## String
 |  |
 | ------- |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
