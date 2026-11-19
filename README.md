@@ -8,6 +8,7 @@
 | [0832-flipping-an-image](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/0832-flipping-an-image) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1748-sum-of-unique-elements](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/1748-sum-of-unique-elements) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3467-transform-array-by-parity](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/3467-transform-array-by-parity) |
 ## Two Pointers
 |  |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3467-transform-array-by-parity](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/3467-transform-array-by-parity) |
 ## Linked List
 |  |
@@ -80,4 +82,8 @@
 | ------- |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
