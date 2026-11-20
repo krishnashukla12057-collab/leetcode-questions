@@ -70,6 +70,7 @@
 | ------- |
 | [0832-flipping-an-image](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/0832-flipping-an-image) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3174-clear-digits](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/3174-clear-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | ------- |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3174-clear-digits](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/3174-clear-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/1051-height-checker) |
+## Stack
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
