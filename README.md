@@ -6,6 +6,7 @@
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0832-flipping-an-image](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/0832-flipping-an-image) |
+| [1051-height-checker](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1748-sum-of-unique-elements](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/1748-sum-of-unique-elements) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -22,6 +23,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3467-transform-array-by-parity](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/3467-transform-array-by-parity) |
@@ -86,4 +88,12 @@
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
