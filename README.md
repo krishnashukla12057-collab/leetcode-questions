@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3174-clear-digits](https://github.com/krishnashukla12057-collab/leetcode-questions/tree/master/3174-clear-digits) |
 ## Greedy
